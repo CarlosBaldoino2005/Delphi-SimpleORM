@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/10/06 15:46:10.000.431,=rtl.dcp</Transaction>
+    <Transaction>2018/10/06 15:46:54.000.584,=C:\Users\thuli\Desktop\DAOGenerico\SimpleRTTI.pas</Transaction>
+    <Transaction>2018/10/06 15:46:54.000.601,=C:\Users\thuli\Desktop\DAOGenerico\SimpleSQL.pas</Transaction>
+    <Transaction>2018/10/06 15:46:54.000.566,=C:\Users\thuli\Desktop\DAOGenerico\SimpleQueryRestDW.pas</Transaction>
+    <Transaction>2018/10/06 15:46:54.000.549,=C:\Users\thuli\Desktop\DAOGenerico\SimpleQueryFiredac.pas</Transaction>
+    <Transaction>2018/10/06 15:46:54.000.249,=C:\Users\thuli\Desktop\DAOGenerico\SimpleAttributes.pas</Transaction>
+    <Transaction>2018/10/06 15:46:54.000.513,=C:\Users\thuli\Desktop\DAOGenerico\SimpleDAO.pas</Transaction>
+    <Transaction>2018/10/06 15:46:54.000.531,=C:\Users\thuli\Desktop\DAOGenerico\SimpleInterface.pas</Transaction>
+    <Transaction>2018/10/06 15:46:59.000.677,C:\Users\thuli\Documents\Embarcadero\Studio\Projects\SimpleORM.dproj=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2018/10/06 15:47:07.000.415,C:\Users\thuli\Desktop\DAOGenerico\SimpleORM.dproj=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\SimpleORM.dproj</Transaction>
+    <Transaction>2018/10/06 15:47:20.000.823,=IndyCore.dcp</Transaction>
+    <Transaction>2018/10/06 15:47:20.000.874,=RestDatawareCORE.dcp</Transaction>
+    <Transaction>2018/10/06 15:47:20.000.785,=inet.dcp</Transaction>
+    <Transaction>2018/10/06 15:47:20.000.810,=IndyProtocols.dcp</Transaction>
+    <Transaction>2018/10/06 15:47:20.000.849,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2018/10/06 15:47:20.000.744,=vcl.dcp</Transaction>
+    <Transaction>2018/10/06 15:47:20.000.861,=FireDACCommon.dcp</Transaction>
+    <Transaction>2018/10/06 15:47:20.000.797,=IndySystem.dcp</Transaction>
+    <Transaction>2018/10/06 15:47:20.000.758,=soaprtl.dcp</Transaction>
+    <Transaction>2018/10/06 15:47:20.000.771,=dbrtl.dcp</Transaction>
+    <Transaction>2018/10/06 15:47:20.000.836,=FireDAC.dcp</Transaction>
+    <Transaction>2018/10/08 14:04:10.000.647,=D:\Projetos\Componentes\SimpleORM\Unit1.pas</Transaction>
+    <Transaction>2018/10/08 14:04:18.000.482,D:\Projetos\Componentes\SimpleORM\Unit1.pas=D:\Projetos\Componentes\SimpleORM\SimpleDAOSQLAttribute.pas</Transaction>
+  </Transactions>
+</BorlandProject>

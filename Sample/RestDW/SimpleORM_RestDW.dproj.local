@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/09/15 15:01:38.000.166,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2018/09/15 15:18:36.000.143,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2018/10/03 11:21:02.000.522,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2018/10/06 14:18:03.000.233,=C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>2018/10/06 14:23:32.000.175,C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit8.dfm=C:\Users\thuli\Desktop\DAOGenerico\Sample\RestDW\Unit8.dfm</Transaction>
+    <Transaction>2018/10/06 14:23:32.000.175,C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Unit8.pas=C:\Users\thuli\Desktop\DAOGenerico\Sample\RestDW\Unit8.pas</Transaction>
+    <Transaction>2018/10/06 14:23:41.000.939,C:\Users\thuli\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\thuli\Desktop\DAOGenerico\Sample\RestDW\SimpleORM_RestDW.dproj</Transaction>
+    <Transaction>2018/10/06 14:27:11.000.967,=C:\Users\thuli\Desktop\DAOGenerico\Sample\Entidades\Entidade.Pedido.pas</Transaction>
+  </Transactions>
+</BorlandProject>
